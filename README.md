@@ -1,2 +1,2 @@
 # literature_search_bot
-Automized literature search bot.
+Simple, intend to be used internally, automized literature search bot.
